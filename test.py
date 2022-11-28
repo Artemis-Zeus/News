@@ -32,3 +32,6 @@ for i in range(3):
         for k in range(len(news_list)):
             writer.writerow([news_list[k], news_list2[k]])
     print(title[i] + "已输出")
+
+
+# SCNU 黄晓楠
